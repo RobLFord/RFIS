@@ -1,0 +1,105 @@
+Going to run RFIS program myInstructionSet.rf
+ ---------- Compiled Instructions -----------
+
+00000000
+00000010
+00000100   00000001   00000001   00000000000000000000000000000101
+
+00000100   00000010   00000010   00000000000000000000000000000110
+
+00000110   00000001
+00000110   00000010
+00000111   00000011   00000010   00000000000000000000000000000001
+
+00000110   00000001
+00000011
+00000010
+00000100   00010100   00010100   00000000000000000000000000110010
+
+00000110   00000010
+00000101   00000001
+00000111   00001010   00000001   00000000000000000000000000010100
+
+00000110   00001010
+00000011
+00000001
+
+
+------- Processing Instructions ------
+fetch
+Start of Program
+----- next instruction ----
+fetch
+----- next instruction ----
+fetch
+decode
+execute
+memory
+writeBack
+----- next instruction ----
+fetch
+decode
+execute
+memory
+writeBack
+----- next instruction ----
+fetch
+decode
+execute
+memory
+----- next instruction ----
+fetch
+decode
+execute
+memory
+----- next instruction ----
+fetch
+decode
+execute
+11 = 6 + 5
+memory
+writeBack
+----- next instruction ----
+fetch
+decode
+execute
+memory
+----- next instruction ----
+fetch
+----- next instruction ----
+fetch
+----- next instruction ----
+fetch
+decode
+execute
+memory
+writeBack
+----- next instruction ----
+fetch
+decode
+execute
+memory
+----- next instruction ----
+fetch
+Loading 5 from RAM to var 1
+decode
+execute
+memory
+----- next instruction ----
+fetch
+decode
+execute
+55 = 5 + 50
+memory
+writeBack
+----- next instruction ----
+fetch
+decode
+execute
+memory
+----- next instruction ----
+fetch
+----- next instruction ----
+fetch
+End of Program
+Press any key to continue . . .

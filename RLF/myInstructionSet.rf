@@ -1,0 +1,17 @@
+hi
+begin
+set 1var 1var 5
+set 2var 2var 6
+store 1var
+store 2var
++ 3var 2var 1var
+store 1var
+end
+begin
+set 20var 20var 50
+store 2var
+load 1var
++ 10var 1var 20var
+store 10var
+end
+bye
